@@ -1,0 +1,11 @@
+# AI 分流 - 国产 AI（直连）
+# 来源：FlClash onetch-flclash.yaml AI 补充规则（2026-10-11）
+# 说明：国产 AI 国内可直连，走代理反而慢，故直连
+# 格式：Surge / Shadowrocket / Quantumult X 通用域名列表
+# 用法：QX「过滤器」或小火箭「配置-规则」中引用本文件，策略选 DIRECT
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,doubao.com
