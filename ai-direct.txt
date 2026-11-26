@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,kimi.moonshot.cn
 DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,doubao.com
+# 2026-11-26 自 ai.txt 移入 moonshot.ai / open.bigmodel.cn / dashscope.aliyuncs.com（deepseek.com / doubao.com 已在）
+DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,open.bigmodel.cn
+DOMAIN-SUFFIX,dashscope.aliyuncs.com
